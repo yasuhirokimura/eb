@@ -1,3 +1,8 @@
+2014-03-30  Yasuhiro KIMURA  <yasu@utahime.org>
+
+	* cofigure, ltmain.sh, m4/libtool.m4: Fix issue that shared
+	libraries are not built on FreeBSD 10 and later.
+
 2010-03-08  Motoyuki Kasahara  <m-kasahr@sra.co.jp>
 
 	* Version 4.4.3.
